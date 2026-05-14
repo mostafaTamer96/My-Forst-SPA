@@ -1,0 +1,31 @@
+.main {
+  background-color: #1abc9c;
+}
+:root {
+  padding: 0px;
+  margin: 0px;
+}
+.ps {
+  padding: 0px;
+}
+
+/* .line1 {
+  right: 50%;
+}
+.line2 {
+  left: 51%;
+} */
+
+.line {
+  width: 80px;
+  height: 4px;
+
+
+}
+
+.bgNavFooter{
+  background-color: #2C3E50;
+}
+.copyRights{
+  background-color: #1A252F;
+}
